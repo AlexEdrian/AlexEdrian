@@ -1,5 +1,7 @@
 <div align="center">
-  <video src="./game.mp4" controls width="800"></video>
+
+<img src="./game.gif" width="800"/>
+
 </div>
 
 <h1 align="center">💻 Tech Stack</h1>
