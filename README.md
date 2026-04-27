@@ -47,6 +47,7 @@
 ## Game Development
 
 <img src="https://img.shields.io/badge/Phaser.js-8E44AD?style=for-the-badge&logo=phaser&logoColor=white" />
+<img src="https://img.shields.io/badge/GB_Studio-1A1A1A?style=for-the-badge&logo=gameboy&logoColor=white" />
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 
