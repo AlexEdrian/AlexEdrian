@@ -1,3 +1,7 @@
+<div align="center">
+  <video src="./game.mp4" controls width="800"></video>
+</div>
+
 <h1 align="center">💻 Tech Stack</h1>
 
 <div align="center">
